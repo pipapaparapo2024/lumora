@@ -2,7 +2,7 @@
 
 Single-page landing for **Lumora — Independent Design & Engineering Studio**. Light editorial palette, Lenis smooth scroll, full-screen intro loader, and a hero **liquid cursor-reveal** over photography.
 
-**Live (after deploy):** [pipapaparapo2024.github.io/lumora](https://pipapaparapo2024.github.io/lumora/)
+**Live:** [pipapaparapo2024.github.io/lumora](https://pipapaparapo2024.github.io/lumora/)
 
 ## Stack
 
