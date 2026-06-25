@@ -22,9 +22,12 @@ Open [http://localhost:3457](http://localhost:3457) — use HTTP, not `file://`.
 
 ## GitHub Pages
 
-1. Push this folder to `pipapaparapo2024/lumora`
-2. **Settings → Pages → Source: GitHub Actions**
-3. Workflow [`.github/workflows/pages.yml`](.github/workflows/pages.yml) deploys on push to `main`
+1. Push this folder to [`pipapaparapo2024/lumora`](https://github.com/pipapaparapo2024/lumora)
+2. Workflow [`.github/workflows/pages.yml`](.github/workflows/pages.yml) publishes `main` to the `gh-pages` branch
+3. **Settings → Pages → Build and deployment → Source: Deploy from a branch**
+4. Branch: **gh-pages** / folder: **/ (root)** → Save
+
+Site URL: [pipapaparapo2024.github.io/lumora](https://pipapaparapo2024.github.io/lumora/)
 
 ## Features
 
