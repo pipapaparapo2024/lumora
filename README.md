@@ -9,7 +9,7 @@ Single-page landing for **Lumora — Independent Design & Engineering Studio**. 
 - One file: `index.html` (HTML + CSS + ES module JS)
 - [Lenis](https://github.com/darkroomengineering/lenis) 1.3.23 via unpkg importmap
 - Google Font **Onest**
-- Hero images from CDN (`lumora-e8b711fc68` bucket)
+- Hero images bundled in `images/` (no external CDN)
 
 ## Local development
 
